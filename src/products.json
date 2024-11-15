@@ -1,0 +1,906 @@
+[
+  {
+    "id": 81,
+    "category": "Social Media Services",
+    "name": "Instagram Likes",
+    "description": "Boost your Instagram post likes.",
+    "image": "assets/images/products/instagram-like.png",
+    "prices": [
+      { "quantity": 100, "Subject": "Likes", "price": 20 },
+      { "quantity": 1000, "Subject": "Likes", "price": 149 },
+      { "quantity": 3000, "Subject": "Likes", "price": 399 },
+      { "quantity": 5000, "Subject": "Likes", "price": 599 },
+      { "quantity": 10000, "Subject": "Likes", "price": 999 }
+    ],
+    "seo": {
+      "metaTitle": "Buy Instagram Likes - Increase Post Engagement",
+      "metaDescription": "Enhance your Instagram presence with our high-quality likes. Buy 100 likes for NPR 20, 200 likes for NPR 150, and 500 likes for NPR 500.",
+      "metaKeywords": "buy Instagram likes, boost post engagement, get more likes on Instagram, real Instagram likes, instant delivery likes, high-quality likes, secure Instagram likes, non-drop likes, lifetime guarantee likes, fast delivery, social media services, Instagram marketing, increase post likes, genuine likes, 24/7 support"
+    },
+    "features": "<ul><li>NON-DROP Likes: Assurance that the provided likes will never decrease.</li><li>Lifetime Guarantee: Commitment to maintaining likes for the entire lifespan of the post.</li><li>Fast Delivery: Quick delivery of likes within 1 hour after placing an order.</li><li>Safe & Secure: Promises a secure process, ensuring no harm to the user's Instagram account.</li><li>24x7 Whatsapp Support: Continuous support available through WhatsApp at any time.</li><li>Public Account Requirement: Users must have a public Instagram account for the service to work effectively.</li><li>Post Link Entry: Users provide the link to the specific post for likes; entering a username directs likes to the latest post.</li></ul>",
+    "slug": "instagram-likes",
+    "rules": [
+      "Real and genuine likes",
+      "Instant delivery",
+      "Safe and secure service"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Graphics Design",
+    "name": "Story Blocks Subscription",
+    "description": "Unlock a world of creativity with the Story Blocks Subscription, your gateway to a vast library of high-quality graphics and design elements ( For 1 Month )",
+    "image": "assets/images/products/story-blocks-subscription-150.png",
+    "prices": [{ "Subject": "Month", "price": 999, "quantity": 1 }],
+    "features": [
+      "Unlimited access to a diverse library of graphics and design elements",
+      "Explore exclusive and premium design resources",
+      "Download assets for offline use",
+      "Use on multiple projects simultaneously"
+    ],
+    "seo": {
+      "metaTitle": "Enhance Your Designs - Discover the Story Blocks Subscription",
+      "metaDescription": "Access a treasure trove of graphics and design elements with the Story Blocks Subscription. Fuel your creative projects with a diverse collection. Subscribe now!",
+      "metaKeywords": "Story Blocks subscription, graphics design, design elements, creative assets, design subscription, visual content, graphic resources, creative projects, digital art, design inspiration"
+    },
+    "slug": "story-blocks-subscription",
+    "rules": [
+      "Ignite your creativity with the Story Blocks Subscription! Dive into a world of graphics and design elements curated for your projects. Elevate your designs with a vast array of high-quality assets. Perfect for designers, artists, and creative minds. Unleash your imagination, whether you're working on a presentation, website, or any creative endeavor. Upgrade your design experience with our Story Blocks Subscription – because every project deserves a touch of brilliance. Treat yourself or gift a fellow creator with the key to endless creative possibilities. Grab your subscription today and let the design journey unfold! 🎨✨",
+      "Unlimited access to a diverse library of graphics and design elements",
+      "Explore exclusive and premium design resources",
+      "Download assets for offline use",
+      "Use on multiple projects simultaneously"
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Social Media Services",
+    "name": "Instagram Followers",
+    "description": "Increase your Instagram followers count.",
+    "image": "assets/images/products/instagram-follower-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Followers", "price": 299 },
+      { "quantity": 3000, "Subject": "Followers", "price": 799 },
+      { "quantity": 5000, "Subject": "Followers", "price": 1199 },
+      { "quantity": 10000, "Subject": "Followers", "price": 2299 }
+    ],
+    "seo": {
+      "metaTitle": "Buy Instagram Followers - Boost Your Follower Count",
+      "metaDescription": "Gain real and active Instagram followers with our packages. Buy 1000 followers for NPR 300, 5000 followers for NPR 1100, and 10000 followers for NPR 1800.",
+      "metaKeywords": "buy Instagram followers, increase follower count, real followers, active followers, organic growth, no password required, gradual delivery, social media services, Instagram marketing, boost social presence, genuine followers"
+    },
+    "slug": "instagram-followers",
+    "rules": [
+      "Organic growth",
+      "No password required",
+      "Gradual delivery for natural appearance"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Social Media Services",
+    "name": "Instagram Reels Views",
+    "description": "Elevate your Instagram video presence with our Instagram Reels Views service. Increase visibility and engagement on your videos by boosting the number of views. Choose from our view packages, starting at 100 views for just NPR 20. Experience high retention views, a safe and confidential service, and the assurance of no drop in views.",
+    "image": "assets/images/products/instagram-reels-views-150.png",
+    "prices": [
+      { "quantity": 100, "Subject": "VIEWS", "price": 20 },
+      { "quantity": 1000, "Subject": "VIEWS", "price": 190 },
+      { "quantity": 3000, "Subject": "VIEWS", "price": 499 },
+      { "quantity": 5000, "Subject": "VIEWS", "price": 899 },
+      { "quantity": 10000, "Subject": "VIEWS", "price": 1599 }
+    ],
+    "seo": {
+      "metaTitle": "Buy Instagram Reels Views - Boost Video Visibility",
+      "metaDescription": "Enhance your Instagram video presence with our view packages. Buy 100 views for NPR 20, 1000 views for NPR 150, 5000 views for NPR 500, and 10000 views for NPR 850. Enjoy high retention views, a secure and confidential service, and ensure no drop in views. Elevate your Instagram Reels engagement today!",
+      "metaKeywords": "buy Instagram views, increase video views, Instagram reels views, high retention views, safe service, confidential views, no drop in views, social media services, video visibility, boost video engagement"
+    },
+    "slug": "instagram-views",
+    "rules": [
+      "High retention views",
+      "Safe and confidential service",
+      "No drop in views"
+    ]
+  },
+
+  {
+    "id": 45,
+    "category": "Graphics Design",
+    "name": "Canva Pro Subscription (1 Year)",
+    "description": "Unlock advanced features with Canva Pro.",
+    "image": "assets/images/products/canva-pro-150.png",
+    "prices": [{ "duration": "1 Year", "price": 650 }],
+    "seo": {
+      "metaTitle": "Canva Pro Subscription - Access Advanced Features",
+      "metaKeywords": "Canva Pro subscription, advanced design features, graphic design, Canva Pro pricing, design tools, creative subscription",
+      "metaDescription": "Upgrade to Canva Pro for advanced design features. Subscribe for just NPR 650 for 1 year or $12.99 per month."
+    },
+    "features": "<ul><li>Unlock advanced design features with Canva Pro.</li><li>Access a wide range of premium design tools and resources.</li><li>Create stunning graphics, presentations, and more with ease.</li><li>Collaborate with team members in real-time on Canva projects.</li><li>Monthly subscription for continuous access to Canva Pro benefits.</li></ul>",
+    "slug": "canva-pro-subscription",
+    "rules": [
+      "Upgrade to Canva Pro with a yearly subscription to unlock advanced design features! Get access to a wide range of premium tools and resources that will enhance your creative projects. Enjoy a rich library of high-quality photos, illustrations, icons, and templates designed for both professionals and enthusiasts. Elevate your designs to the next level with Canva Pro!"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Social Media Services",
+    "name": "Facebook Post Like",
+    "description": "Boost engagement on your Facebook posts with our Post Like Increase service.",
+    "image": "assets/images/products/facebook-like-boost-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Post Likes", "price": 149 },
+      { "quantity": 3000, "Subject": "Post Likes", "price": 399 },
+      { "quantity": 5000, "Subject": "Post Likes", "price": 599 },
+      { "quantity": 10000, "Subject": "Post Likes", "price": 999 }
+    ],
+    "seo": {
+      "metaTitle": "Buy Facebook Post Likes - Increase Engagement",
+      "metaDescription": "Enhance engagement on your Facebook posts with our Post Like Increase service. Buy 500 likes for $120, 1000 likes for $220, 2000 likes for $400, 5000 likes for $800, and 10000 likes for $1500.",
+      "metaKeywords": "buy Facebook post likes, increase post engagement, real and active post likes, gradual delivery, no password required, social media services, Facebook marketing, boost post likes, genuine likes"
+    },
+    "slug": "facebook-post-like-increase",
+    "rules": [
+      "Real and active post likes",
+      "Gradual delivery for natural growth",
+      "No password required"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Social Media Services",
+    "name": "Facebook Page Like and Followers",
+    "description": "Expand your Facebook page audience with our Page Like Increase service.",
+    "image": "assets/images/products/facebook-page-like-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Page Likes", "price": 599 },
+      { "quantity": 3000, "Subject": "Page Likes", "price": 1399 },
+      { "quantity": 5000, "Subject": "Page Likes", "price": 2399 },
+      { "quantity": 10000, "Subject": "Page Likes", "price": 4499 }
+    ],
+    "seo": {
+      "metaTitle": "Buy Facebook Page Likes - Grow Your Page Audience",
+      "metaDescription": "Expand your Facebook page audience with our Page Like Increase service. Buy 1000 likes for $550, 2000 likes for $1000, 5000 likes for $2000, 10000 likes for $3500, 20000 likes for $6000, and 50000 likes for $12000.",
+      "metaKeywords": "buy Facebook page likes, increase page audience, real and active page likes, gradual delivery, no password required, social media services, Facebook marketing, boost page likes, genuine likes, grow Facebook audience"
+    },
+    "slug": "facebook-page-like-increase",
+    "rules": [
+      "Real and active page likes",
+      "Gradual delivery for natural growth",
+      "No password required"
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Social Media Services",
+    "name": "Facebook Comment",
+    "description": "Boost engagement on your Facebook posts with our Comment Increase service.",
+    "image": "assets/images/products/facebook-comment-increase-150.png",
+    "prices": [
+      { "quantity": 50, "Subject": "Comments", "price": 25 },
+      { "quantity": 200, "Subject": "Comments", "price": 90 },
+      { "quantity": 500, "Subject": "Comments", "price": 200 },
+      { "quantity": 1000, "Subject": "Comments", "price": 350 }
+    ],
+    "seo": {
+      "metaTitle": "Buy Facebook Comments - Boost Your Post Engagement",
+      "metaDescription": "Increase engagement on your Facebook posts with our Comment Increase service. Buy 50 comments for NPR 25, 200 comments for NPR 90, 500 comments for NPR 200, and 1000 comments for NPR 350.",
+      "metaKeywords": "buy Facebook comments, increase post engagement, real and relevant comments, gradual delivery, no inappropriate comments, no spammy comments, social media services, Facebook marketing, boost post comments, genuine comments"
+    },
+    "slug": "facebook-comment-increase",
+    "rules": [
+      "Real and relevant comments",
+      "Gradual delivery for natural engagement",
+      "No inappropriate or spammy comments"
+    ]
+  },
+
+  {
+    "id": 44,
+    "category": "Premium Services",
+    "name": "YouTube Premium",
+    "description": "Enhance your YouTube experience with YouTube Premium.",
+    "image": "assets/images/products/youtube-premium.png",
+    "prices": [
+      { "quantity": 1, "Subject": "Month, Family Package", "price": 1000 },
+      { "quantity": 12, "Subject": "Month", "price": 9000 }
+    ],
+    "seo": {
+      "metaTitle": "Upgrade to YouTube Premium - Ad-Free, Offline, Exclusive Content",
+      "metaDescription": "Enjoy ad-free videos, offline viewing, background play, and exclusive content with YouTube Premium. Subscribe for NPR 1000 per month or get a Family Membership for NPR 9000 per month.",
+      "metaKeywords": "YouTube Premium, ad-free videos, offline viewing, background play, exclusive content, YouTube Originals, YouTube Music Premium, premium subscription, video streaming, online entertainment, subscription service, monthly subscription, Family Package"
+    },
+    "slug": "youtube-premium",
+    "rules": [
+      "Ad-free viewing on YouTube",
+      "Offline downloads for videos",
+      "Background play for videos",
+      "Access to YouTube Originals",
+      "YouTube Music Premium included"
+    ],
+    "availability": {
+      "regions": ["United States", "United Kingdom", "Canada", "etc."]
+    }
+  },
+  {
+    "id": 41,
+    "category": "Premium Services",
+    "name": "Spotify Premium",
+    "description": "Upgrade your music experience with Spotify Premium.",
+    "image": "assets/images/products/spotify-premium.png",
+    "prices": [
+      { "quantity": 1, "Subject": "Month", "price": 530 },
+      { "quantity": 3, "Subject": "Months", "price": 1100 },
+      { "quantity": 6, "Subject": "Months", "price": 1800 },
+      { "quantity": 12, "Subject": "Months", "price": 3000 }
+    ],
+    "seo": {
+      "metaTitle": "Upgrade to Spotify Premium - Ad-Free, Offline, High-Quality Audio",
+      "metaDescription": "Enhance your music experience with Spotify Premium. Enjoy ad-free listening, offline downloads, high-quality audio streaming, and more. Subscribe for NPR 530 per month or save with multi-month plans.",
+      "metaKeywords": "Spotify Premium, music streaming, ad-free listening, offline downloads, high-quality audio, premium subscription, monthly subscription, multi-month plans, music experience, Spotify account, non-returnable, non-resalable, age requirements, single-use"
+    },
+    "slug": "spotify-premium",
+    "rules": "<p>Enhance your music experience with <strong>Spotify Premium</strong> subscription! Enjoy unlimited access to a vast library of songs without interruptions. Listen offline, skip tracks freely, and indulge in high-quality audio. No ads, just pure musical bliss. Whether you're commuting, working out, or relaxing at home, take your tunes with you everywhere. Upgrade to <em>Spotify Premium</em> today – because your ears deserve the best. Treat yourself or surprise a friend with the gift of premium sound. Grab your subscription now and let the music play! 🎶🔊</p>",
+    "features": "<li>Non-returnable and non-resalable (except where required by law).</li><li> Requires a Spotify account.</li><li> Must be 13 years or older.</li><li> Single-use only.</li>"
+  },
+  {
+    "id": 46,
+    "category": "Gaming",
+    "name": "Free Fire Diamond Top-up",
+    "description": "Enhance your Free Fire gaming experience with additional diamonds.",
+    "image": "assets/images/products/freefire-diamond-150.png",
+    "prices": [
+      { "quantity": 100, "Subject": "Diamonds", "price": 150 },
+      { "quantity": 210, "Subject": "Diamonds", "price": 280 },
+      { "quantity": 530, "Subject": "Diamonds", "price": 700 },
+      { "quantity": 1060, "Subject": "Diamonds", "price": 1400 },
+      { "quantity": 2180, "Subject": "Diamonds", "price": 2800 },
+      { "quantity": 5600, "Subject": "Diamonds", "price": 7000 },
+      { "quantity": 11860, "Subject": "Diamonds", "price": 14000 },
+      { "quantity": 24640, "Subject": "Diamonds", "price": 28000 }
+    ],
+    "seo": {
+      "metaTitle": "Free Fire Diamond Top-up - Instantly Boost Your Gaming",
+      "metaDescription": "Elevate your Free Fire gaming experience with our Diamond Top-up service. Get instant top-ups, unlock exclusive in-game items, and accelerate your character progression. Prices starting from NPR 150.",
+      "metaKeywords": "Free Fire, Diamond Top-up, gaming, in-game currency, instant top-ups, exclusive items, character progression, gaming experience, Free Fire account, virtual currency, online gaming, mobile gaming, top-up service, gaming platform, multiplayer game"
+    },
+    "slug": "freefire-diamond-topup",
+    "rules": [
+      "Valid Free Fire account required.",
+      "Diamonds may take a few minutes to reflect in your account.",
+      "No refunds after successful top-up.",
+      "Instant diamond top-up",
+      "Unlock exclusive in-game items",
+      "Faster character progression",
+      "Support for multiple platforms"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Premium Services",
+    "name": "Telegram Premium (1 year)",
+    "description": "Upgrade your messaging experience with Telegram Premium.",
+    "image": "assets/images/products/telegram-premium.png",
+    "price": 4200,
+    "features": [
+      "Ad-free messaging",
+      "Unlimited cloud storage for media",
+      "Priority customer support",
+      "Custom themes and stickers",
+      "Enhanced security features"
+    ],
+    "seo": {
+      "metaTitle": "Upgrade to Telegram Premium - Ad-Free Messaging, Unlimited Storage",
+      "metaDescription": "Elevate your messaging experience with Telegram Premium. Enjoy ad-free messaging, unlimited cloud storage for media, priority customer support, custom themes, and enhanced security features. Subscribe for NPR 4200 per year or save with multi-month plans.",
+      "metaKeywords": "Telegram Premium, messaging experience, ad-free messaging, unlimited storage, cloud storage, priority customer support, custom themes, stickers, enhanced security, premium subscription, annual subscription, multi-month plans, valid payment method, automatic renewal, cancel anytime"
+    },
+    "slug": "telegram-premium",
+    "rules": [
+      "Valid payment method required.",
+      "Subscription automatically renews unless canceled.",
+      "Cancel anytime."
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Social Media Services",
+    "name": "Telegram Member Increase",
+    "description": "Boost your Telegram group with real and active members.",
+    "image": "assets/images/products/telegram-member-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Members", "price": 200 },
+      { "quantity": 5000, "Subject": "Members", "price": 800 },
+      { "quantity": 10000, "Subject": "Members", "price": 1500 },
+      { "quantity": 20000, "Subject": "Members", "price": 2500 }
+    ],
+    "features": [
+      "<strong>For real and active members: 1000 Subscribers: NPR 3000</strong><br/>",
+      "Gradual increase to maintain group integrity",
+      "Targeted member demographics",
+      "24/7 customer support"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your Telegram Group - Real and Active Member Increase",
+      "metaDescription": "Supercharge your Telegram group with our Member Increase service. Get real and active members, a gradual increase to maintain group integrity, targeted member demographics, and 24/7 customer support. Prices starting from NPR 200.",
+      "metaKeywords": "Telegram Member Increase, Telegram group boost, real members, active members, group integrity, targeted demographics, customer support, social media services, group growth, increase Telegram members, authentic members, valid link, gradual increase, no fake accounts"
+    },
+    "slug": "telegram-member-increase",
+    "rules": [
+      "Valid Telegram group link required.",
+      "Members added gradually for authenticity.",
+      "No fake or inactive accounts."
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Thread Services",
+    "name": "Thread Followers",
+    "description": "Boost engagement on your Threads profile with our Thread Followers service.",
+    "image": "assets/images/products/thread-followers.png",
+    "prices": [
+        { "quantity": 1000, "Subject": "Thread Followers", "price": 499 },
+        { "quantity": 3000, "Subject": "Thread Followers", "price": 1399 },
+        { "quantity": 5000, "Subject": "Thread Followers", "price": 2399 },
+        { "quantity": 10000, "Subject": "Thread Followers", "price": 4499 }
+    ],
+    "seo": {
+        "metaTitle": "Buy Facebook Thread Followers - Boost Engagement",
+        "metaDescription": "Enhance engagement on your Facebook threads with our Thread Followers service. Buy 1000 followers for NPR 500, 5000 followers for NPR 2000, and 10000 followers for NPR 4000.",
+        "metaKeywords": "buy Facebook thread followers, boost thread engagement, real and active followers, gradual delivery, no password required, social media services, Thread marketing, increase thread followers, genuine followers, grow Twitter engagement"
+    },
+    "slug": "facebook-thread-followers",
+    "rules": [
+        "Real and active thread followers",
+        "Gradual delivery for natural growth",
+        "No password required"
+    ]
+},
+{
+    "id": 79,
+    "category": "Thread Services",
+    "name": "Thread Likes Increase",
+    "description": "Enhance your Threads profile engagement with our Thread Likes Increment service.",
+    "image": "assets/images/products/thread-post-likes.png",
+    "prices": [
+        { "quantity": 1000, "Subject": "Thread Likes", "price": 499 },
+        { "quantity": 3000, "Subject": "Thread Likes", "price": 1399 },
+        { "quantity": 5000, "Subject": "Thread Likes", "price": 2399 },
+        { "quantity": 10000, "Subject": "Thread Likes", "price": 4499 }
+    ],
+    "seo": {
+        "metaTitle": "Buy Facebook Thread Likes - Enhance Engagement",
+        "metaDescription": "Elevate engagement on your Facebook threads with our Thread Likes Increment service. Purchase 1000 likes for NPR 399, 3000 likes for NPR 1099, 5000 likes for NPR 1999, and 10000 likes for NPR 3499.",
+        "metaKeywords": "buy Facebook thread likes, enhance thread engagement, real and active likes, gradual delivery, no password required, social media services, Thread marketing, boost thread likes, genuine likes, grow thread engagement"
+    },
+    "slug": "facebook-thread-likes",
+    "rules": [
+        "Real and active thread likes",
+        "Gradual delivery for natural growth",
+        "No password required"
+    ]
+},
+  {
+    "id": 52,
+    "category": "Social Media Services",
+    "name": "Telegram Subscriber Increase",
+    "description": "Boost your Telegram channel with real and engaged subscribers.",
+    "image": "assets/images/products/telegram-subscriber-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Members", "price": 200 },
+      { "quantity": 5000, "Subject": "Members", "price": 800 },
+      { "quantity": 10000, "Subject": "Members", "price": 1500 },
+      { "quantity": 20000, "Subject": "Members", "price": 2500 }
+    ],
+    "features": [
+      "<strong>For real and active subscribers: 1000 Subscribers: NPR 3000</strong>",
+      "Gradual increase to maintain channel credibility",
+      "Targeted subscriber demographics",
+      "24/7 customer support"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your Telegram Channel - Real and Engaged Subscriber Increase",
+      "metaDescription": "Amplify your Telegram channel with our Subscriber Increase service. Acquire real and engaged subscribers, a gradual increase to maintain channel credibility, targeted subscriber demographics, and 24/7 customer support. Prices starting from NPR 200.",
+      "metaKeywords": "Telegram Subscriber Increase, Telegram channel boost, real subscribers, engaged subscribers, channel credibility, targeted demographics, customer support, social media services, channel growth, increase Telegram subscribers, authentic subscribers, valid link, gradual increase, no fake accounts"
+    },
+    "slug": "telegram-subscriber-increase",
+    "rules": [
+      "Valid Telegram channel link required.",
+      "Subscribers added gradually for authenticity.",
+      "No fake or inactive accounts."
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Gaming",
+    "name": "Free Fire Packages",
+    "description": "Enhance your Free Fire gaming experience with our exclusive packages.",
+    "image": "assets/images/products/freefire-packages.png",
+    "prices": [
+      { "quantity": 7, "Subject": "DAYS", "price": 300 },
+      { "quantity": 30, "Subject": "DAYS", "price": 1200 }
+    ],
+    "seo": {
+      "metaTitle": "Unlock Exclusive Benefits - Free Fire Monthly and Weekly Packages",
+      "metaDescription": "Supercharge your Free Fire gaming experience with our Monthly and Weekly Packages. Enjoy daily login rewards, exclusive in-game items, diamond top-up bonuses, and weekly challenges. Subscribe now!",
+      "metaKeywords": "Free Fire Packages, gaming experience, exclusive benefits, Monthly Packages, Weekly Packages, daily login rewards, in-game items, diamond top-up bonuses, weekly challenges, valid Free Fire account, auto-renew, cancel anytime"
+    },
+    "slug": "freefire-packages",
+    "rules": [
+      "Valid Free Fire account required.",
+      "Packages auto-renew unless canceled.",
+      "Cancel anytime."
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Gaming",
+    "name": "Free Fire Airdrop",
+    "description": "Get exclusive in-game items and bonuses with our Free Fire Airdrop service.",
+    "image": "assets/images/products/freefire-airdrop.png",
+    "seo": {
+      "metaTitle": "Unlock Exclusive Items - Free Fire Airdrop Service",
+      "metaDescription": "Boost your Free Fire inventory with our Airdrop Service. Choose from Bronze, Silver, and Gold Airdrops, each offering exclusive in-game items. Grab yours now and stand out on the battlefield!",
+      "metaKeywords": "Free Fire Airdrop, exclusive items, in-game bonuses, gaming inventory, Bronze Airdrop, Silver Airdrop, Gold Airdrop, valid Free Fire account, airdrops delivery, no refunds"
+    },
+    "price": 180,
+    "slug": "freefire-airdrop",
+    "rules": [
+      "Valid Free Fire account required.",
+      "Airdrops delivered within 24 hours of purchase.",
+      "No refunds after successful delivery."
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Gaming",
+    "name": "PUBG Mobile UC",
+    "description": "Get Unknown Cash (UC) to enhance your PUBG Mobile gaming experience.",
+    "image": "assets/images/products/pubg-mobileuc.png",
+    "prices": [
+      { "quantity": 60, "price": 130, "Subject": " UC" },
+      { "quantity": 180, "price": 385, "Subject": " UC" },
+      { "quantity": 325, "price": 650, "Subject": " UC" },
+      { "quantity": 660, "price": 1300, "Subject": " UC" },
+      { "quantity": 1800, "price": 3250, "Subject": " UC" },
+      { "quantity": 3850, "price": 6500, "Subject": " UC" },
+      { "quantity": 8100, "price": 13000, "Subject": " UC" }
+    ],
+    "features": [
+      "Instant UC delivery",
+      "Secure and reliable service",
+      "Use UC for in-game purchases",
+      "Exclusive in-game items"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your PUBG Mobile Experience - Get UC for In-Game Purchases",
+      "metaDescription": "Enhance your PUBG Mobile gaming experience with our UC service. Instantly receive UC, enjoy secure and reliable transactions, and use UC for in-game purchases and exclusive items. Choose your package now!",
+      "metaKeywords": "PUBG Mobile UC, UC for PUBG Mobile, gaming experience, in-game purchases, exclusive items, instant UC delivery, secure service, reliable transactions, valid PUBG Mobile account, no refunds, UC packages, UC pricing"
+    },
+    "slug": "pubg-mobile-uc",
+    "rules": [
+      "Valid PUBG Mobile account required.",
+      "UC delivered instantly after successful payment.",
+      "No refunds after UC is delivered."
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Tiktok Services",
+    "name": "TikTok Likes",
+    "description": "Boost your TikTok presence with additional likes on your videos.",
+    "image": "assets/images/products/tiktok-likes-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Likes", "price": 199 },
+      { "quantity": 3000, "Subject": "Likes", "price": 499 },
+      { "quantity": 5000, "Subject": "Likes", "price": 899 },
+      { "quantity": 10000, "Subject": "Likes", "price": 1599 }
+    ],
+    "features": [
+      "Real and genuine TikTok likes",
+      "Fast delivery",
+      "Boost video visibility",
+      "Enhance engagement"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your TikTok Videos - Get More Likes Instantly",
+      "metaDescription": "Increase the popularity of your TikTok videos with our Likes service. Get real and genuine likes, fast delivery, and boost video visibility. Choose your package now!",
+      "metaKeywords": "TikTok likes, boost video likes, real TikTok likes, genuine TikTok likes, fast likes delivery, enhance engagement, TikTok popularity, social media services"
+    },
+    "slug": "tiktok-likes",
+    "rules": [
+      "Valid TikTok account required.",
+      "Likes delivered instantly after successful payment.",
+      "No refunds after likes are delivered."
+    ]
+  },
+
+  {
+    "id": 92,
+    "category": "Tiktok Services",
+    "name": "TikTok Live Battle",
+    "description": "Boost your TikTok presence with additional likes on your videos.",
+    "image": "assets/images/products/tiktok-live-battle-likes.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Likes", "price": 299 },
+      { "quantity": 3000, "Subject": "Likes", "price": 799 },
+      { "quantity": 5000, "Subject": "Likes", "price": 1199 },
+      { "quantity": 10000, "Subject": "Likes", "price": 2299 }
+    ],
+    "features": [
+      "Real and genuine TikTok likes",
+      "Fast delivery",
+      "Boost video visibility",
+      "Enhance engagement"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your TikTok Videos - Get More Likes Instantly",
+      "metaDescription": "Increase the popularity of your TikTok videos with our Likes service. Get real and genuine likes, fast delivery, and boost video visibility. Choose your package now!",
+      "metaKeywords": "TikTok likes, boost video likes, real TikTok likes, genuine TikTok likes, fast likes delivery, enhance engagement, TikTok popularity, social media services"
+    },
+    "slug": "tiktok-live-battle",
+    "rules": [
+      "Valid TikTok account required.",
+      "Likes delivered instantly after successful payment.",
+      "No refunds after likes are delivered."
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Tiktok Services",
+    "name": "TikTok Views",
+    "description": "Increase the visibility of your TikTok videos with additional views.",
+    "image": "assets/images/products/tiktok-views-150.png",
+    "prices": [
+      { "quantity": 1000, "price": 149 },
+      { "quantity": 3000, "price": 399 },
+      { "quantity": 5000, "price": 599 },
+      { "quantity": 10000, "price": 999 }
+    ],
+    "features": [
+      "Real and high-quality TikTok views",
+      "Fast and gradual delivery",
+      "Enhance video ranking",
+      "Increase organic reach"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your TikTok Visibility - Get More Views Instantly",
+      "metaDescription": "Enhance the visibility of your TikTok videos with our Views service. Get real and high-quality views, fast and gradual delivery, and increase video ranking. Choose your package now!",
+      "metaKeywords": "TikTok views, boost video views, real TikTok views, high-quality TikTok views, fast views delivery, enhance video ranking, increase organic reach, TikTok visibility, social media services"
+    },
+    "slug": "tiktok-views",
+    "rules": [
+      "Valid TikTok account required.",
+      "Views delivered gradually for authenticity.",
+      "No refunds after views are delivered."
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Tiktok Services",
+    "name": "TikTok Followers",
+    "description": "Boost your TikTok profile with real and active followers.",
+    "image": "assets/images/products/tiktok-followers-150.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Followers", "price": 999 },
+      { "quantity": 3000, "Subject": "Followers", "price": 2799 },
+      { "quantity": 5000, "Subject": "Followers", "price": 4399 },
+      { "quantity": 10000, "Subject": "Followers", "price": 7999 }
+    ],
+    "features": [
+      "Real and active TikTok followers",
+      "Gradual and organic growth",
+      "Enhance profile credibility",
+      "Increase visibility"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your TikTok Profile - Get Real Followers Gradually",
+      "metaDescription": "Enhance your TikTok profile with our Followers service. Get real and active followers, experience gradual and organic growth, and increase profile credibility. Choose your follower package now!",
+      "metaKeywords": "TikTok followers, boost profile followers, real TikTok followers, active TikTok followers, gradual follower growth, increase profile visibility, social media services"
+    },
+    "slug": "tiktok-followers",
+    "rules": [
+      "Valid TikTok account required.",
+      "Followers added gradually for authenticity.",
+      "No refunds after followers are added."
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Streaming",
+    "name": "Netflix Subscription",
+    "description": "Enjoy unlimited streaming of movies and TV shows with a Netflix subscription.",
+    "image": "assets/images/products/netflix-subscription-150.png",
+    "prices": [
+      { "Subject": "Days (1 Screen)", "price": 450, "quantity": 30 },
+      { "Subject": "Months", "price": 1100, "quantity": 3 }
+    ],
+    "seo": {
+      "metaTitle": "Unlimited Streaming - Choose Your Netflix Subscription",
+      "metaDescription": "Enjoy unlimited streaming of movies and TV shows with our Netflix Subscription. Choose from Basic, Standard, or Premium plans with various features. Subscribe now!",
+      "metaKeywords": "Netflix subscription, streaming service, movie streaming, TV show streaming, Netflix plans, entertainment subscription, binge-watching, streaming on multiple devices, social media services"
+    },
+    "slug": "netflix-subscription",
+    "rules": [
+      "Get ready for non-stop fun with Netflix Premium subscription! It's your VIP pass to awesome movies and shows, all in one place. Watch on your phone, anytime you want. No ads, just pure entertainment. Laugh, cry, and get hooked on the latest hits. Perfect for family movie nights or chilling out after a busy day. Upgrade your watching experience with our Netflix Premium – because everyone deserves a daily dose of awesome. Treat yourself or surprise a friend with the gift of endless streaming. Grab your pass today and let the binge-watching begin! 🎉🍿",
+      "Unlimited streaming of movies and TV shows",
+      "Access to exclusive Amazon Originals",
+      "Download content for offline viewing",
+      "Stream on multiple devices simultaneously"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Streaming",
+    "name": "Amazon Prime Video Subscription",
+    "description": "Access a vast library of movies, TV shows, and exclusive content with an Amazon Prime Video subscription.",
+    "image": "assets/images/products/amazon-prime-video.png",
+    "prices": [
+      { "Subject": "Days", "price": 900, "quantity": 30 },
+      { "Subject": "Yearly", "price": 9000, "quantity": 1 }
+    ],
+    "features": [
+      "Unlimited streaming of movies and TV shows",
+      "Access to exclusive Amazon Originals",
+      "Download content for offline viewing",
+      "Stream on multiple devices simultaneously"
+    ],
+    "seo": {
+      "metaTitle": "Enjoy Unlimited Streaming with Amazon Prime Video Subscription",
+      "metaDescription": "Access a vast library of movies, TV shows, and exclusive content with an Amazon Prime Video subscription. Stream unlimitedly, enjoy Amazon Originals, and download content for offline viewing. Subscribe now!",
+      "metaKeywords": "Amazon Prime Video subscription, streaming service, movie streaming, TV show streaming, Amazon Prime plans, entertainment subscription, Amazon Originals, binge-watching, streaming on multiple devices, social media services"
+    },
+    "slug": "amazon-prime-video-subscription",
+    "rules": [
+      "Valid Amazon account required.",
+      "Cancellation can be done anytime.",
+      "Prices may vary based on location."
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Gift Cards",
+    "name": "Google Play Gift Card",
+    "description": "Get access to a world of entertainment, apps, games, and more with a Google Play gift card.",
+    "image": "assets/images/products/google-play-gift-card.png",
+    "prices": [
+      { "quantity": 10, "Subject": "Card", "price": 10.0 },
+      { "quantity": 25, "Subject": "Card", "price": 25.0 },
+      { "quantity": 50, "Subject": "Card", "price": 50.0 }
+    ],
+    "features": [
+      "Redeemable for apps, games, movies, music, and more",
+      "No expiration date",
+      "Compatible with Android devices",
+      "Can be used for in-app purchases"
+    ],
+    "seo": {
+      "metaTitle": "Explore Endless Possibilities with Google Play Gift Card",
+      "metaDescription": "Get access to a world of entertainment, apps, games, and more with a Google Play gift card. Redeemable for various digital content, no expiration date, and compatible with Android devices. Get your gift card now!",
+      "metaKeywords": "Google Play gift card, digital content, entertainment, apps, games, in-app purchases, Android, gift card, Google Play Store, social media services"
+    },
+    "slug": "google-play-gift-card",
+    "rules": [
+      "Valid Google account required.",
+      "Gift card code delivered instantly after successful payment.",
+      "Non-refundable once the code is delivered."
+    ]
+  },
+  {
+    "id": 94,
+    "category": "YouTube Services",
+    "name": "YouTube Subscriber Increase",
+    "description": "Boost your YouTube channel with real and engaged subscribers.",
+    "image": "assets/images/products/youtube-subscriber.png",
+    "prices": [
+      { "quantity": 100, "Subject": "Subscribers", "price": 299 },
+      { "quantity": 500, "Subject": "Subscribers", "price": 1299 },
+      { "quantity": 1000, "Subject": "Subscribers", "price": 2499 },
+      { "quantity": 2000, "Subject": "Subscribers", "price": 4999 },
+      { "quantity": 5000, "Subject": "Subscribers", "price": 9999 },
+      { "quantity": 10000, "Subject": "Subscribers", "price": 14999 }
+      
+    ],
+    "features": [
+      "Real and engaged YouTube subscribers",
+      "Gradual increase for natural growth",
+      "Targeted subscriber demographics",
+      "24/7 customer support"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your YouTube Channel - Real and Engaged Subscriber Increase",
+      "metaDescription": "Amplify your YouTube channel with our Subscriber Increase service. Acquire real and engaged subscribers, a gradual increase for natural growth, targeted subscriber demographics, and 24/7 customer support. Prices starting from $14.99.",
+      "metaKeywords": "YouTube subscriber increase, boost YouTube channel, engaged subscribers, real subscribers, targeted demographics, social media services"
+    },
+    "slug": "youtube-subscriber-increase",
+    "rules": [
+      "Valid YouTube channel link required.",
+      "Subscribers added gradually for authenticity.",
+      "No fake or inactive accounts."
+    ]
+  },
+  {
+    "id": 95,
+    "category": "YouTube Services",
+    "name": "YouTube Like Increase",
+    "description": "Enhance the likes on your YouTube videos with our Like Increase service.",
+    "image": "assets/images/products/youtube-video-likes.png",
+    "prices": [
+      { "quantity": 500, "Subject": "Likes", "price": 120 },
+      { "quantity": 1000, "Subject": "Likes", "price": 220 },
+      { "quantity": 2000, "Subject": "Likes", "price": 400 },
+      { "quantity": 5000, "Subject": "Likes", "price": 800 },
+      { "quantity": 10000, "Subject": "Likes", "price": 1500 },
+      { "quantity": 20000, "Subject": "Likes", "price": 2500 }
+    ],
+    "features": [
+      "Genuine and diverse video likes",
+      "Gradual increase for natural engagement",
+      "Targeted like demographics",
+      "Boost video visibility and popularity"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your YouTube Videos - Increase Likes for Natural Engagement",
+      "metaDescription": "Elevate the engagement on your YouTube videos with our Like Increase service. Get genuine and diverse likes, a gradual increase for natural engagement, targeted like demographics, and boost video visibility and popularity. Prices starting from $9.99.",
+      "metaKeywords": "YouTube like increase, boost YouTube videos, genuine likes, diverse likes, natural engagement, targeted demographics, video visibility, social media services"
+    },
+    "slug": "youtube-like-increase",
+    "terms": [
+      "Valid YouTube video link required.",
+      "Likes added gradually for authenticity.",
+      "No fake or inactive accounts."
+    ]
+  },
+  {
+    "id": 96,
+    "category": "YouTube Services",
+    "name": "YouTube Monetization",
+    "description": "Unlock the potential to earn money from your YouTube content with our Monetization service.",
+    "image": "assets/images/products/youtube-monitization.png",
+    "prices":[
+      { "quantity": "Full", "Subject": "Package", "price": 14999 },
+      { "quantity": "Custom", "Subject": "Package", "price": 4999 }
+    ],
+        "features": [
+      "Enable monetization on your YouTube channel",
+      "Qualify for ad revenue sharing",
+      "Access to YouTube Partner Program (YPP)",
+      "Monetize videos with ads",
+      "Earn revenue from YouTube ads"
+    ],
+    "seo": {
+      "metaTitle": "Unlock YouTube Monetization - Start Earning from Your Content",
+      "metaDescription": "Enable monetization on your YouTube channel with our Monetization service. Qualify for ad revenue sharing, access YouTube Partner Program, monetize videos with ads, and start earning revenue from YouTube ads. Subscribe now!",
+      "metaKeywords": "YouTube monetization, monetize YouTube videos, YouTube Partner Program, ad revenue sharing, earn from YouTube ads, social media services"
+    },
+    "slug": "youtube-monetization",
+    "rules": [
+      "Valid YouTube channel with eligible content required.",
+      "Compliance with YouTube policies and guidelines.",
+      "Monetization approval subject to YouTube's terms."
+    ]
+  },
+  {
+   
+    "id": 98,
+    "category": "YouTube Services",
+    "name": "YouTube Watch Hour Increase",
+    "description": "Boost your YouTube channel with real and engaged viewers following complete watch hours.",
+    "image": "assets/images/products/youtube-watch-hour.png",
+    "prices": [
+      { "quantity": 1000, "Subject": "Watch Hours", "price": 1999 },
+      { "quantity": 3000, "Subject": "Watch Hours", "price": 4999 },
+      {"quantity": 4000, "Subject": "Watch Hours", "price": 6999},
+      { "quantity": 5000, "Subject": "Watch Hours", "price": 8999 },
+      { "quantity": 10000, "Subject": "Watch Hours", "price": 15999 }
+    ],
+    "features": [
+      "Real and engaged YouTube watch hours",
+      "Gradual increase for natural growth",
+      "Targeted watch hour demographics",
+      "24/7 customer support"
+    ],
+    "seo": {
+      "metaTitle": "Boost Your YouTube Channel - Real and Engaged Watch Hour Increase",
+      "metaDescription": "Amplify your YouTube channel with our Watch Hour Increase service. Acquire real and engaged watch hours, a gradual increase for natural growth, targeted watch hour demographics, and 24/7 customer support. Prices starting from NPR 299.",
+      "metaKeywords": "YouTube watch hour increase, boost YouTube channel, engaged watch hours, real watch hours, targeted demographics, social media services"
+    },
+    "slug": "youtube-watch-hour-increase",
+    "rules": [
+      "Valid YouTube channel link required.",
+      "Watch hours added gradually for authenticity.",
+      "No fake or inactive accounts."
+    ]
+  },
+
+  
+  {
+      "id": 43,
+      "category": "Social Media Services",
+      "name": "Facebook Monetization",
+      "description": "Unlock the earning potential from your Facebook content with our Monetization service.",
+      "image": "assets/images/products/facebook-monitization.png",
+      "price": 14999,
+      "features": [
+          "Enable monetization on your Facebook page",
+          "Qualify for ad revenue sharing",
+          "Access to Facebook Monetization Program",
+          "Monetize content with ads",
+          "Earn revenue from Facebook ads"
+      ],
+      "seo": {
+          "metaTitle": "Unlock Facebook Monetization - Start Earning from Your Content",
+          "metaDescription": "Enable monetization on your Facebook page with our Monetization service. Qualify for ad revenue sharing, access Facebook Monetization Program, monetize content with ads, and start earning revenue from Facebook ads. Subscribe now!",
+          "metaKeywords": "Facebook monetization, monetize Facebook content, Facebook Monetization Program, ad revenue sharing, earn from Facebook ads, social media services"
+      },
+      "slug": "facebook-monetization",
+      "rules": [
+          "Valid Facebook page with eligible content required.",
+          "Compliance with Facebook policies and guidelines.",
+          "Monetization approval subject to Facebook's terms."
+      ]
+  },    
+  {
+    "id": 97,
+    "category": "YouTube Services",
+    "name": "YouTube Comment Increase",
+    "description": "Boost engagement on your YouTube videos with our Comment Increase service.",
+    "image": "assets/images/products/youtube-comment.png",
+    "prices": [
+      { "quantity": 50, "Subject": "Comments", "price": 360 },
+      { "quantity": 200, "Subject": "Comments", "price": 1200 },
+      { "quantity": 500, "Subject": "Comments", "price": 2500 },
+      { "quantity": 1000, "Subject": "Comments", "price": 4500 },
+      { "quantity": 2000, "Subject": "Comments", "price": 8000 },
+      { "quantity": 5000, "Subject": "Comments", "price": 18000 }
+    ],
+    "features": [
+      "Real and relevant video comments",
+      "Gradual increase for natural engagement",
+      "Targeted comment demographics",
+      "Enhance video visibility and interaction"
+    ],
+    "seo": {
+      "metaTitle": "Boost YouTube Engagement - Increase Comments for Natural Interaction",
+      "metaDescription": "Enhance engagement on your YouTube videos with our Comment Increase service. Get real and relevant comments, a gradual increase for natural engagement, targeted comment demographics, and boost video visibility and interaction. Prices starting from $19.99.",
+      "metaKeywords": "YouTube comment increase, boost YouTube engagement, relevant comments, natural engagement, targeted demographics, video visibility, social media services"
+    },
+    "slug": "youtube-comment-increase",
+    "rules": [
+      "Valid YouTube video link required.",
+      "Comments added gradually for authenticity.",
+      "No inappropriate or spammy comments."
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Google Services",
+    "name": "Google Storage",
+    "description": "Get additional storage for your Google account.",
+    "image": "assets/images/products/google-storage.png",
+    "prices": [
+      { "quantity": 100, "price": 100, "Subject": "GB" },
+      { "quantity": 200, "price": 200, "Subject": "GB" },
+      { "quantity": 500, "price": 500, "Subject": "GB" },
+      { "quantity": 1000, "price": 1000, "Subject": "GB" },
+      { "quantity": 2000, "price": 2000, "Subject": "GB" },
+      { "quantity": 4000, "price": 4000, "Subject": "GB" },
+      { "quantity": 8000, "price": 8000, "Subject": "GB" },
+      { "quantity": 16000, "price": 16000, "Subject": "GB" }
+    ],
+    "features": [
+      "Additional storage for your Google account",
+      "Access to Google One benefits",
+      "Share storage with family members",
+      "24/7 customer support"
+    ],
+    "seo": {
+      "metaTitle": "Get Additional Storage for Your Google Account",
+      "metaDescription": "Get additional storage for your Google account with our Google Storage service. Access Google One benefits, share storage with family members, and enjoy 24/7 customer support. Subscribe now!",
+      "metaKeywords": "Google Storage, additional storage, Google One benefits, share storage, family sharing, 24/7 customer support, Google services, social media services"
+    },
+    "slug": "google-storage",
+    "rules": [
+      "Valid Google account required.",
+      "Storage added instantly after successful payment.",
+      "No refunds after storage is added."
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+.search-container {
+    position: relative;
+    margin: 10px;
+  }
+  
+  .search-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .form-control {
+    padding: 8px;
+    margin-right: 5px;
+  }
+  
+  .btn-search {
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .suggestions-container {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1; /* Ensure the suggestions appear above other elements */
+  }
+  
+  .suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+    &:hover {
+      background-color: #f0f0f0;
+    }
+  }
+  
+  .search-results {
+    margin-top: 10px;
+  }
+  
+  .result-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    margin-bottom: 5px;
+    &:hover {
+      background-color: #e9ecef;
+    }
+  }
+  .pull-left {
+    text-align: left;
+  }
+  
+  .pull-right {
+    text-align: right;
+  }
+  .product-display-container {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    padding: 15px;
+  }
+  
+  .product-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .product-description {
+    color: #555;
+  }
+  
+  .product-category {
+    font-weight: bold;
+    color: #777;
+  }
+  
+  .product-desc {
+    color: #666;
+  }
+  
+  .product-price {
+    text-align: center;
+  }
+  
+  .product-price-heading {
+    font-weight: bold;
+    color: #ff5733; /* Orange color */
+  }
+  
+  .quantity-buttons-container {
+    margin-top: 10px;
+  }
+  
+  .selected-size {
+    font-weight: bold;
+  }
+  
+  .size-button {
+    margin-right: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #333;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .size-button.selected {
+    border-color: #ff5733;
+    background-color: #ff5733;
+    color: #fff;
+  }
+  
+  .coupon-input {
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+  .add-to-cart-btn {
+    background-color: #4caf50; /* Green color */
+    color: #fff;
+  }
+  
+  .checkout-btn {
+    margin-left: 5px;
+  }
+  

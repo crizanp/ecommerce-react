@@ -1,0 +1,286 @@
+/* styles.css */
+
+.category-section {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 40px 0; /* Adjust padding as needed */
+  }
+  
+  .section-header {
+    margin-bottom: 30px; /* Space between subtitle and title */
+  }
+  
+  .subtitle {
+    font-size: 18px;
+    color: #555; /* Dark gray text color */
+  }
+  
+  .title {
+    font-size: 32px;
+    color: #333; /* Slightly darker text color */
+  }
+  
+  .section-wrapper {
+    
+    justify-content: center;
+  }
+  
+  .category-item {
+    text-decoration: none;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .category-item:hover {
+    transform: scale(1.05); /* Scale up on hover for a slight effect */
+  }
+  
+  .category-inner {
+    border: 1px solid #ddd; /* Border around each category item */
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #fff; /* White background for each category item */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Slight box shadow for a lift effect */
+  }
+  
+  .category-content {
+    text-align: center;
+  }
+  
+  .category-content h6 {
+    font-size: 16px;
+    color: #333; /* Darker text color for category title */
+    margin: 10px 0;
+  }
+  
+  .lab-btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #007bff; /* Blue button color */
+    color: #fff; /* White text color */
+    border-radius: 8px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .lab-btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  /* Slider.css */
+.slider {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+  }
+  
+  .slider img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .slider-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    z-index: 2;
+  }
+  
+  .slider-caption h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .slider-caption p {
+    font-size: 16px;
+  }
+  .slider-item {
+    position: relative;
+  }
+  
+  .slider-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* Add your styles for the payment popup */
+.payment-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+/* Additional styles as needed */
+
+/* CSS Styles for Product Showcase Enhancement */
+
+/* Course item container */
+/* Course item container */
+.course-item {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.course-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adjust shadow on hover */
+}
+
+/* Course image */
+.course-thumb img {
+  width: 100%;
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+/* Course content */
+.course-content {
+  padding: 20px;
+  background-color: #fff;
+}
+
+/* Title */
+.course-content h6 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #333;
+}
+
+/* Footer */
+.course-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+/* Brand or price */
+.course-price {
+  font-size: 18px;
+  color: #ff5722;
+  font-weight: bold;
+}
+
+/* "See All Products" button */
+.lab-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #333;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.lab-btn:hover {
+  background-color: #555;
+}
+/* Base styles */
+
+/* ... (Previous CSS code) ... */
+
+/* Smaller devices (e.g., mobile phones) */
+/* Base styles */
+
+/* ... (Previous CSS code) ... */
+/* Base styles */
+
+/* ... (Previous CSS code) ... */
+
+/* Smaller devices (e.g., mobile phones) */
+@media only screen and (max-width: 767px) {
+  .row-cols-md-3 .col {
+    flex: 0 0 50%; /* Display 2 cards in a row */
+    max-width: 50%;
+  }
+
+  /* Adjust image size */
+  .course-thumb img {
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+    max-height: 200px; /* Limit maximum height of images */
+    object-fit: cover; /* Maintain aspect ratio */
+    border-radius: 10px 10px 0 0;
+  }
+
+  /* Adjust title font size */
+  .course-content h6 {
+    font-size: 16px;
+  }
+
+  /* Adjust price font size */
+  .course-price {
+    font-size: 14px;
+  }
+
+  /* Hide course author on smaller devices */
+  .course-author {
+    display: none;
+  }
+}
+
+/* YourStyles.css */
+
+/* Customize the color and position of the slick-prev and slick-next arrows */
+.slick-prev,
+.slick-next {
+  color: rgb(255, 255, 255) !important; /* Set the color to black */
+  font-size: 20px; /* Set the font size for the arrows */
+  top: 50%; /* Position the arrows vertically at the middle of the container */
+}
+
+.slick-prev {
+  left: 10px; /* Position the previous arrow to the left of the container */
+}
+
+.slick-next {
+  right: 10px; /* Position the next arrow to the right of the container */
+}
+
+/* Customize the appearance of the custom arrows */
+.custom-prev-arrow,
+.custom-next-arrow {
+  background-color: #000000;
+  color: white;/* Set the background color for the custom arrows */
+  padding: 5px; /* Add padding to the custom arrows */
+  border-radius: 40%; /* Add border-radius for rounded corners */
+  cursor: pointer; /* Set cursor to pointer for better usability */
+  position: absolute; /* Position the custom arrows relative to the container */
+  top: 50%; /* Position the custom arrows vertically at the middle of the container */
+  transform: translateY(-50%); /* Center the custom arrows vertically */
+}
+
+.custom-prev-arrow {
+  left: 0px; /* Position the custom previous arrow to the left of the container */
+}
+
+.custom-next-arrow {
+  right: 0px; /* Position the custom next arrow to the right of the container */
+}
+
+/* Additional styling for hover effect if needed */
+.custom-prev-arrow:hover,
+.custom-next-arrow:hover {
+  background-color: #353333; /* Change background color on hover */
+}
+.slick-slide{
+}
+@media only screen and (max-width: 767px) {
+  .slick-slide{
+    width: auto !important;
+  }
+}

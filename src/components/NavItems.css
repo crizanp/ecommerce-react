@@ -1,0 +1,81 @@
+/* NavItems.css */
+
+.user-profile {
+  position: relative;
+}
+
+.profile-image {
+  width: 40px; /* Adjust the size as needed */
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.profile-links {
+  position: absolute;
+  top: 50px; /* Adjust the distance from the profile image */
+  left: 0;
+  background-color: #fff; /* Set your background color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+}
+
+.profile-links a,
+.profile-links button {
+  margin-bottom: 5px;
+  padding: 5px;
+  text-decoration: none;
+  color: #333; /* Set your text color */
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.profile-links a:hover,
+.profile-links button:hover {
+  color: #007bff; /* Set your hover color */
+}
+
+.footer {
+  color: #fff;
+  background-color: rgb(114, 32, 255);
+}
+
+.list-style {
+  list-style-type: none !important;
+  cursor: pointer;
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+.copy-right {
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+.Nepal {
+  width: 87.7px;
+  height: 23.7px;
+  margin: 10.7px 0 5.2px 10.2px;
+  color: #fff;
+}
+@media (max-width: 767px) {
+  .viber-menu,
+  .whatsapp-menu {
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  .header-section.style-4 .menu > ul li a {
+    color: #ffffff !important;
+    border-top: 1px solid rgb(255 255 255) !important;
+  }
+}
+@media (max-width: 991px) {
+  .header-section.style-4 .menu > ul {
+    background: #5e80e7 !important;
+    color: white;
+  }
+}

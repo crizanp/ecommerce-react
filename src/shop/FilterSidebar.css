@@ -1,0 +1,88 @@
+/* FilterSidebar.css */
+
+/* .filter-sidebar {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+  } */
+  
+  .mobile {
+    /* Add mobile-specific styles here */
+  }
+  
+  .desktop {
+    /* Add desktop-specific styles here */
+  }
+  
+  .list-group {
+    border: none;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+  
+  .tag-link {
+    margin: 4px;
+  }
+  
+  .tag {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 30px;
+    border: 2px solid #6f42c1;
+    /* background-color: rgb(114, 32, 255); */
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    font-size: 14px;
+  }
+  
+  .tag:hover {
+    background-color: #6f42c1;
+    transform: scale(1.05);
+    color: white;
+  }
+  
+  .tag.active {
+    background-color: #6f42c1;
+  }
+  
+  .tag.active:hover {
+    background-color: #6f42c1;
+    transform: scale(1);
+  }
+  .product-details-container {
+    display: flex;
+    align-items: flex-start; /* Align items at the start of the container */
+  }
+  .bg-purple {
+    background-color: rgb(114, 32, 255);
+    color: white;
+  }
+  .bg-purple:hover {
+    background-color: rgb(136, 70, 249);
+    color: wheat;
+  }
+  
+  .product-thumb {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    z-index: 1; /* Ensure the image appears above other elements */
+  }
+  
