@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './FakeActivate.css';
+import './fakeActivate.css';
 import Modal from './Modal'; // Import the Modal component
 
 const FakeActivate = () => {
