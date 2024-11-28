@@ -76,7 +76,6 @@ const SliderComponent = ({ items }) => {
     autoplaySpeed: 3000,
   };
 
-  // Custom CSS to hide the Next button
   const customStyle = `
     .slick-next {
       display: none !important;
@@ -91,8 +90,7 @@ const SliderComponent = ({ items }) => {
       transform: translateY(-50%);
       max-width: 40%; /* Adjust the max-width as needed */
     }
-    /* Responsive Text Styles */
-    
+=    
   .slider-button{
     background-color: #e75480 ; /* Pink */
     border: none;
@@ -115,14 +113,14 @@ const SliderComponent = ({ items }) => {
     .slider-text {
       
       @media (max-width: 768px) {
-        left: 10%; /* Keep it centered for smaller devices */
-        max-width: 90%; /* Adjust max-width for smaller devices */
+        left: 10%;
+        max-width: 90%; 
       }
   
       h3 {
   
         @media (max-width: 768px) {
-          font-size: 1.5em; /* Adjust font size for smaller devices */
+          font-size: 1.5em; 
         }
       }
   
@@ -130,13 +128,13 @@ const SliderComponent = ({ items }) => {
         
         @media (max-width: 768px) {
           font-size: 1.5em;
-          color: black /* Adjust font size for smaller devices */
+          color: black 
         }
         @media (min-width: 768px) {
           font-size: 3em;
           font-weight: bold;
           padding: 0.3em 0em;
-          color: black /* Adjust font size for smaller devices */
+          color: black 
         }
       }
     }

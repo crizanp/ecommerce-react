@@ -1,20 +1,4 @@
-/* FilterSidebar.css */
 
-/* .filter-sidebar {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
-    margin: 10px;
-  } */
-  
-  .mobile {
-    /* Add mobile-specific styles here */
-  }
-  
-  .desktop {
-    /* Add desktop-specific styles here */
-  }
-  
   .list-group {
     border: none;
   }
@@ -66,7 +50,7 @@
   }
   .product-details-container {
     display: flex;
-    align-items: flex-start; /* Align items at the start of the container */
+    align-items: flex-start;
   }
   .bg-purple {
     background-color: rgb(114, 32, 255);
@@ -83,6 +67,6 @@
     width: 100%;
     max-width: 100%;
     height: auto;
-    z-index: 1; /* Ensure the image appears above other elements */
+    z-index: 1; 
   }
   

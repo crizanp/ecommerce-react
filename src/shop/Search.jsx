@@ -1,16 +1,13 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 
-import "./css/search.css"; // Import your CSS file for styling
+import "./css/search.css"; 
 
 const Search = ({ products }) => {
   const [searchTerm, setSearchTerm] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
-
-  // Use the location hook from react-router to get the current URL location
   const location = useLocation();
 
-  // useEffect to update the search term based on the query parameter in the URL
   useEffect(() => {
     const searchParams = new URLSearchParams(location.search);
     const searchTermFromUrl = searchParams.get("search") || "";
@@ -59,7 +56,7 @@ const Search = ({ products }) => {
           placeholder="Search..."
           value={searchTerm}
           onChange={handleInputChange}
-          style={{ borderColor: "rgb(13,110,253)",borderRadius:"0px" }} // Set the border color to blue
+          style={{ borderColor: "rgb(13,110,253)",borderRadius:"0px" }} 
         />
         <button type="submit" className="btn-search">
           <i className="icofont-search-2"></i>

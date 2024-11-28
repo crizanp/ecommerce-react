@@ -3,9 +3,7 @@ import React from "react";
 
 const PaymentPopup = ({ onClose }) => {
   const handlePayment = (method) => {
-    // Implement payment logic for the selected method (eSewa, Khalti, Fonepay)
     console.log(`Payment through ${method}`);
-    // Close the popup after payment
     onClose();
   };
 

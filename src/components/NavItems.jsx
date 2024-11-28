@@ -4,7 +4,6 @@ import { Link, useLocation } from "react-router-dom";
 import logoHome from "../assets/images/logo/logo-blue.png";
 import logoShop from "../assets/images/logo/logo.png";
 import "./NavItems.css";
-// ... (import statements)
 
 const NavItems = () => {
   const location = useLocation();
@@ -81,7 +80,6 @@ const NavItems = () => {
               <a href="#" target="_blank" rel="noopener noreferrer">
                 <i className="icofont-youtube text-light mx-1"></i>
               </a>
-              {/* Add more social icons as needed */}
 
               <div>
                 <span className="px-3">| </span>

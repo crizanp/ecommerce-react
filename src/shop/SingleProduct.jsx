@@ -1,25 +1,14 @@
 import React, { useState, useEffect } from "react";
-import { useContext } from "react";
 import { Link, useParams } from "react-router-dom";
-import PageHeader from "../components/PageHeader";
 import ProductDisplay from "./ProductDisplay";
-import Review from "./Review";
-import ReviewForm from "./ReviewForm";
-import { AuthContext } from "../contexts/AuthProvider";
 import { Card, Col, Row } from "react-bootstrap";
-import FilterSidebar from "./FilterSidebar";
-import { useLocation } from "react-router-dom";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 
 const SingleProduct = () => {
   const [product, setProduct] = useState({});
   const [similarProducts, setSimilarProducts] = useState([]);
-  const [showFeatures, setShowFeatures] = useState(true);
-  const [showRules, setShowRules] = useState(true);
-  const [userLoggedIn, setUserLoggedIn] = useState(false);
   const { slug } = useParams();
-  const { user } = useContext(AuthContext);
-  const location = useLocation();
+  
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -153,7 +142,7 @@ const SingleProduct = () => {
                 </div>
               </div>
               <div className="col-md-2 col-12 d-none d-md-block">
-              <a href="https://ighdigital.ae/marketing-solutions/">  <img
+              <a href="#">  <img
                   src="../assets/images/ads/long.png"
                   alt="Ads Placeholder"
                   style={{ width: "100%", height: "100%" }}

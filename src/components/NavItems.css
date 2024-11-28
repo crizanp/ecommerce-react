@@ -5,7 +5,7 @@
 }
 
 .profile-image {
-  width: 40px; /* Adjust the size as needed */
+  width: 40px; 
   height: 40px;
   border-radius: 50%;
   cursor: pointer;
@@ -13,9 +13,9 @@
 
 .profile-links {
   position: absolute;
-  top: 50px; /* Adjust the distance from the profile image */
+  top: 50px; 
   left: 0;
-  background-color: #fff; /* Set your background color */
+  background-color: #fff; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 10px;
   border-radius: 5px;
@@ -29,7 +29,7 @@
   margin-bottom: 5px;
   padding: 5px;
   text-decoration: none;
-  color: #333; /* Set your text color */
+  color: #333; 
   border: none;
   background-color: transparent;
   cursor: pointer;
@@ -37,7 +37,7 @@
 
 .profile-links a:hover,
 .profile-links button:hover {
-  color: #007bff; /* Set your hover color */
+  color: #007bff; 
 }
 
 .footer {

@@ -1,8 +1,6 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import { Link } from "react-router-dom";
-// const subTitle = "Choose Any Products";
-// const title = "Buy Everything with Us";
 const btnText = "Get Started Now";
 import { categoryList } from "../home/HomeCategory.jsx";
 import PageHeader from "../components/PageHeader.jsx";
@@ -46,12 +44,6 @@ const CardShowcase = () => {
             ))}
           </div>
         </div>
-
-        {/* <div className="text-center mt-4">
-          <Link to="/cards" className="lab-btn">
-            <span>{btnText}</span>
-          </Link>
-        </div> */}
       </div>
     </div>
     </>

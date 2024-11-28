@@ -1,12 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import Modal from "../fakeactivate/Modal";
 import PageHeader from "../components/PageHeader";
-import '../fakeactivate/Fakeactivate.css';
 
 const CartPage = () => {
   const [cartItems, setCartItems] = useState([]);
-  // const [showPaymentPopup, setShowPaymentPopup] = useState(false);
   const [showModal, setShowModal] = useState(false);
 
   useEffect(() => {

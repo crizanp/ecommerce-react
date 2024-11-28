@@ -17,8 +17,8 @@ const Footer = () => {
               many more.
             </p>
             <p className="copy-right text-light">
-              Copyright © 2022-2024 <a href="https://nxtechhosting.com" style={{color: "white", fontWeight:"bold"}}>NXTech</a>. Powered by <a href="https://ighdigital.ae" style={{color: "white", fontWeight:"bold"}}> IGHDigital</a>. All right reserved.
-<br/>
+              Copyright © 2022-2024 <a href="https://nxtechhosting.com" style={{ color: "white", fontWeight: "bold" }}>Crizan</a>. Powered by <a href="#" style={{ color: "white", fontWeight: "bold" }}> IGHDigital</a>. All right reserved.
+              <br />
             </p>
             {/* Social Icons */}
             <ul className="social-icons list-unstyled">
@@ -52,11 +52,11 @@ const Footer = () => {
           <div className="col-md-3">
             <h5 className="pb-3">OUR TOP PAGES </h5>
             <ul className="list-style ps-0 text-light" >
-              <li className="pb-3"><a href ="/search/facebook" style={{color:"white"}}>Facebook Services</a></li>
-              <li className="pb-3"><a href ="/search/instagram" style={{color:"white"}}>Instagram Services</a></li>
-              <li className="pb-3"><a href ="/search/telegram" style={{color:"white"}}>Telegram Services</a></li>
-              <li className="pb-3"><a href ="/search/premium" style={{color:"white"}}>Premium Services</a></li>
-              <li className="pb-3"><a href ="/search/youtube" style={{color:"white"}}>Youtube Services</a></li>
+              <li className="pb-3"><a href="/search/facebook" style={{ color: "white" }}>Facebook Services</a></li>
+              <li className="pb-3"><a href="/search/instagram" style={{ color: "white" }}>Instagram Services</a></li>
+              <li className="pb-3"><a href="/search/telegram" style={{ color: "white" }}>Telegram Services</a></li>
+              <li className="pb-3"><a href="/search/premium" style={{ color: "white" }}>Premium Services</a></li>
+              <li className="pb-3"><a href="/search/youtube" style={{ color: "white" }}>Youtube Services</a></li>
             </ul>
           </div>
           {/* Solutions end */}

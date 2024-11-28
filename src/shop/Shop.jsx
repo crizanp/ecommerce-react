@@ -76,7 +76,6 @@ const Shop = () => {
     setShowDropdown(false);
   };
 
-  // Check if the device is in mobile view
   const isMobile = window.innerWidth <= 767;
 
   return (
@@ -106,7 +105,6 @@ const Shop = () => {
         <meta property="og:type" content="website" />
         <meta property="og:url" content={window.location.href} />
         <meta property="og:image" content="./assets/logo/logo.png" />{" "}
-        {/* Replace with a URL to an image for sharing */}
       </Helmet>
 
       <div

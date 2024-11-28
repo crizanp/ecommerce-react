@@ -1,6 +1,6 @@
 // FilterSidebar.jsx
 import React, { useState } from "react";
-import "./FilterSidebar.css"; // Import your CSS file for styling
+import "./FilterSidebar.css"; 
 import { Link } from "react-router-dom";
 
 export const tagsData = [
@@ -58,12 +58,7 @@ const renderTags = (tags, selectedCategory, filterItems) => (
   <div className="tags container">
     {tags.map(({ name, url }) => (
       <Link 
-        to={url}  // Use the URL property as the href
-        // onClick={(e) => {
-        //   e.preventDefault();  // Prevent the default link behavior
-        //   filterItems(name);
-        // }
-        // }
+        to={url} 
         className={`tag-link ${selectedCategory === name ? "active" : ""}`}
       >
         <span className="tag">{name}</span>
